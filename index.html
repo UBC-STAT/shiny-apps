@@ -71,7 +71,9 @@
 <body>
     <table id="shiny-app-tables">
         <thead>
-
+            <tr>
+                <th></th>
+            </tr>
         </thead>
         <tbody></tbody>
     </table>
@@ -90,7 +92,11 @@
             })
             .then(text => {
                 readme = text;
-                header = readme.split("------|-------------|------|-----|---------|-----------")[0];
+                header = readme.split("------|-------------|------|-----|---------|-----------")[0]
+                               .split(new RegExp("^#[ ]*[a-zA-Z ]*[\\n]+"))[1]
+                               .replaceAll("\n", "")
+                               .split("\|");
+                
                 entries = readme.split("------|-------------|------|-----|---------|-----------")[1];
             });
 </script>
