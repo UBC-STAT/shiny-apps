@@ -103,7 +103,26 @@
                     th.innerHTML = entry;
                     thead.append(th);
                 });
-                entries = readme.split(new RegExp("------\|-------------\|------\|-----\|---------\|-----------[ ]*"))[1];
+                
+                entries = readme.split(new RegExp("------\\|-------------\\|------\\|-----\\|---------\\|-----------[ ]*\n"))[1];
+                tbody = document.querySelector("tbody");
+
+                entries.split("\n").forEach(row => {
+                    
+                    if (row == ""){
+                        return;
+                    }
+
+                    let columns = row.split("|");
+                    let tr = document.createElement("tr");
+                    
+                    columns.forEach(column => {
+                            let td = document.createElement("td");
+                            td.innerHTML = column;
+                            tr.append(td);
+                        });
+                    tbody.append(tr);
+                });
             });
 </script>
 
