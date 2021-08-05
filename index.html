@@ -92,12 +92,18 @@
             })
             .then(text => {
                 readme = text;
-                header = readme.split("------|-------------|------|-----|---------|-----------")[0]
+                header = readme.split("------|-------------|------|-----|---------|-----------\n")[0]
                                .split(new RegExp("^#[ ]*[a-zA-Z ]*[\\n]+"))[1]
                                .replaceAll("\n", "")
                                .split("\|");
                 
-                entries = readme.split("------|-------------|------|-----|---------|-----------")[1];
+                let thead = document.querySelector("thead > tr");
+                header.forEach(entry => {
+                    let th = document.createElement("th");
+                    th.innerHTML = entry;
+                    thead.append(th);
+                });
+                entries = readme.split(new RegExp("------\|-------------\|------\|-----\|---------\|-----------[ ]*"))[1];
             });
 </script>
 
