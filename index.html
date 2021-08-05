@@ -1,1 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UBC-STAT: Shiny Apps</title>
+    <style>
+        table {
+            table-layout: fixed;
+            border-collapse: collapse;
+            border-top: 3px double black;
+            border-bottom: 3px double black;
+            margin: 1em 2em;
+            caption-side: top;
+        }
 
+        table > caption{
+            font-size: 18px;
+        }
+
+        /* Configure table */
+        th {
+            font-size: 16px;
+            padding: .5em;
+            text-align: center;
+        }
+
+        td {
+            border-bottom: 1px solid black;
+            padding: .5em;
+            font-size: 15px;    
+            text-align: center;
+        }
+
+        tr {
+            font-size: 14px;
+        }
+
+        thead tr {
+            background-color: rgb(58, 58, 58);
+            color: white;
+            font-size: 15px;
+        }
+
+        tbody tr:nth-child(even){
+            background-color: rgba(190, 189, 189, 0.5);
+        }
+
+        tr th:nth-child(odd){
+            width: 115px;
+        }
+
+        thead th:nth-child(even){
+            border-right: 2px solid white;
+        }
+
+        tbody td:nth-child(even){
+            border-right: 2px solid black;
+        }
+        tbody td:last-child{
+            border-right: none;
+        }
+
+        main > table ul {
+            margin-bottom: .2em;
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+
+<script>
+ fetch("readme")
+        .then(response => {
+            if (response.ok) {
+                return response.text();
+            }
+            return response.statusText;
+        })
+        .then(text => {
+            document.querySelector('body').innerHTML = text;
+        });
+</script>
+
+</html>
