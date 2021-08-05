@@ -73,16 +73,17 @@
 </body>
 
 <script>
- fetch("README.md")
-        .then(response => {
-            if (response.ok) {
-                return response.text();
-            }
-            return response.statusText;
-        })
-        .then(text => {
-            document.querySelector('body').innerHTML = text;
-        });
+    let readme;
+    fetch("README.md")
+            .then(response => {
+                if (response.ok) {
+                    return response.text();
+                }
+                return response.statusText;
+            })
+            .then(text => {
+                readme = text;
+            });
 </script>
 
 </html>
