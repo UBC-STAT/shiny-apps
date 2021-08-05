@@ -69,7 +69,12 @@
     <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 </head>
 <body>
-    
+    <table id="shiny-app-tables">
+        <thead>
+
+        </thead>
+        <tbody></tbody>
+    </table>
 </body>
 
 <script>
@@ -84,6 +89,10 @@
             .then(text => {
                 readme = text;
             });
+    
+    header = readme.split("------|-------------|------|-----|---------|-----------")[0];
+    entries = readme.split("------|-------------|------|-----|---------|-----------")[1];
+
 </script>
 
 </html>
