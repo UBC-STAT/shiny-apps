@@ -79,6 +79,8 @@
 
 <script>
     let readme;
+    let header;
+    let entries;
     fetch("README.md")
             .then(response => {
                 if (response.ok) {
@@ -88,11 +90,9 @@
             })
             .then(text => {
                 readme = text;
+                header = readme.split("------|-------------|------|-----|---------|-----------")[0];
+                entries = readme.split("------|-------------|------|-----|---------|-----------")[1];
             });
-    
-    header = readme.split("------|-------------|------|-----|---------|-----------")[0];
-    entries = readme.split("------|-------------|------|-----|---------|-----------")[1];
-
 </script>
 
 </html>
