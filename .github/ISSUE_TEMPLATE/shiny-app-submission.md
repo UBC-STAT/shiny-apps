@@ -7,21 +7,21 @@ assignees: ''
 
 ---
 
-- **Authors**:
-- **Title**:
-- **Main topic**:
-- **Description**: *[a sentence or two describing the app]*
-- **Link to deployed app**:
+- AUTHORS:
+- TITLE:
+- MAIN TOPIC:
+- DESCRIPTION: *[a sentence or two describing the app]*
+- LINK TO DEPLOYED APP:
 
 ---------------------------
 
 The following information is optional:
 
-- Link to repository: *[for collaboration purposes app should be in its own repository]*
-- Level of development: *[under development, beta version, ready for use ]*
-- License (see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
-- E-mail address:
-- Courses for use:
-- Prerequisites:
-- Learning Objectives: 
-- Accompanying activity: _is there an activity related to the app?_
+- LINK TO REPOSITORY: *[for collaboration purposes app should be in its own repository]*
+- LEVEL OF DEPLOYEMENT: *[under development, beta version, ready for use]*
+- LICENSE: *[see some licenses examples [here](https://creativecommons.org/about/cclicenses/)]*
+- E-MAIL ADDRESS:
+- COURSES FOR USE:
+- PREREQUISITES:
+- LEARNING OBJECTIVES: 
+- ACCOMPANYING ACTIVITY: _[is there an activity related to the app?]_
