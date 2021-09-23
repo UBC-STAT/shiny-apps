@@ -10,4 +10,5 @@
 - COURSES FOR USE:
 - PREREQUISITES:
 - LEARNING OBJECTIVES: 
-- ACCOMPANYING ACTIVITY: _[is there an activity related to the app?]_
+- ACCOMPANYING ACTIVITY: _[is there an activity related to the app?]
+- ADDITIONAL COMMENTS: 
