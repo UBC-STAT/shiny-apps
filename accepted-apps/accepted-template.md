@@ -1,13 +1,13 @@
 - **Authors**:
 - **Title**:
 - **Main topic**:
-- **Description**: *a sentence or two describing the app*
+- **Description**: 
 - **Link to deployed app**:
 - Link to repository:
-- Level of development: *[under development, beta version, ready for use ]*
+- Level of development: 
 - License (see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
 - E-mail address:
 - Courses for use:
 - Prerequisites:
 - Learning Objectives: 
-- Accompanying activity: _is there an activity related to the app?_
+- Accompanying activity:
