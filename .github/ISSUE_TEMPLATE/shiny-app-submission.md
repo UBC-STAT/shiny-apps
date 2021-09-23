@@ -15,11 +15,16 @@ assignees: ''
   - topic 3 (if any)
 - **Description**: *a sentence or two describing the app*
 - **Link to deployed app**:
-- **License** (optional - see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
-- **Link to repository** (optional):
-- **Level of development** (optional): [Up and running, under development, beta version]
-- **E-mail address** (optional):
-- **Courses for use** (optional):
-- **Prerequisites** (optional):
-- **Learning Objectives** (optional): 
-- **Accompanying activity** (optional): _is there an activity related to the app?_
+
+---------------------------
+
+The following information is optional:
+
+- Link to repository:
+- Level of development: *[under development, beta version, ready for use ]*
+- License (see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
+- E-mail address:
+- Courses for use:
+- Prerequisites:
+- Learning Objectives: 
+- Accompanying activity: _is there an activity related to the app?_
