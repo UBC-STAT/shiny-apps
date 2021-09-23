@@ -13,11 +13,11 @@ assignees: ''
   - Topic 1 
   - topic 2 (if any)
   - topic 3 (if any)
-- **Description**:
-- **License**:
-- **Level of development**: [Up and running, under development, beta version]
+- **Description**: *a sentence or two describing the app*
 - **Link to deployed app**:
+- **License** (optional - see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
 - **Link to repository** (optional):
+- **Level of development** (optional): [Up and running, under development, beta version]
 - **E-mail address** (optional):
 - **Courses for use** (optional):
 - **Prerequisites** (optional):
