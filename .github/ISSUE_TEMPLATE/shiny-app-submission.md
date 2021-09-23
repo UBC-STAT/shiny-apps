@@ -10,14 +10,14 @@ assignees: ''
 - **Authors**:
 - **Title**:
 - **Main topic**:
-- **Description**: *a sentence or two describing the app*
+- **Description**: *[a sentence or two describing the app]*
 - **Link to deployed app**:
 
 ---------------------------
 
 The following information is optional:
 
-- Link to repository:
+- Link to repository: *[for collaboration purposes app should be in its own repository]*
 - Level of development: *[under development, beta version, ready for use ]*
 - License (see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
 - E-mail address:
