@@ -10,8 +10,9 @@ assignees: ''
 - **Authors**:
 - **Title**:
 - **Topics**:
-  - 
-  -
+  - Topic 1 
+  - topic 2 (if any)
+  - topic 3 (if any)
 - **Objectives**:
 - **License**:
 - **Link to deployed app**:
