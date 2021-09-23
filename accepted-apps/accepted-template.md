@@ -1,13 +1,13 @@
-- **Authors**:
-- **Title**:
-- **Main topic**:
-- **Description**: 
-- **Link to deployed app**:
-- Link to repository:
-- Level of development: 
-- License (see some licenses [here](https://creativecommons.org/about/cclicenses/)): 
-- E-mail address:
-- Courses for use:
-- Prerequisites:
-- Learning Objectives: 
-- Accompanying activity:
+- AUTHORS:
+- TITLE:
+- MAIN TOPIC:
+- DESCRIPTION: *[a sentence or two describing the app]*
+- LINK TO DEPLOYED APP:
+- LINK TO REPOSITORY: *[for collaboration purposes app should be in its own repository]*
+- LEVEL OF DEPLOYEMENT: *[under development, beta version, ready for use]*
+- LICENSE: *[see some licenses examples [here](https://creativecommons.org/about/cclicenses/)]*
+- E-MAIL ADDRESS:
+- COURSES FOR USE:
+- PREREQUISITES:
+- LEARNING OBJECTIVES: 
+- ACCOMPANYING ACTIVITY: _[is there an activity related to the app?]_
