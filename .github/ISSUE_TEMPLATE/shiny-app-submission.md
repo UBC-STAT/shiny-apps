@@ -10,19 +10,19 @@ assignees: ''
 - AUTHORS:
 - TITLE:
 - MAIN TOPIC:
-- DESCRIPTION: *[a sentence or two describing the app]*
+- DESCRIPTION: [a sentence or two describing the app]
 - LINK TO DEPLOYED APP:
 
 ---------------------------
 
 The following information is optional:
 
-- LINK TO REPOSITORY: *[for collaboration purposes, the app should be in its own repository]*
-- LEVEL OF DEPLOYMENT: *[under development, beta version, ready for use]*
-- LICENSE: *[see some licenses examples [here](https://creativecommons.org/about/cclicenses/)]*
+- LINK TO REPOSITORY: [for collaboration purposes, the app should be in its own repository]
+- LEVEL OF DEPLOYMENT: [under development, beta version, ready for use]
+- LICENSE: [see some licenses examples [here](https://creativecommons.org/about/cclicenses/)]
 - E-MAIL ADDRESS:
 - COURSES FOR USE:
 - PREREQUISITES:
 - LEARNING OBJECTIVES: 
-- ACCOMPANYING ACTIVITY: _[is there an activity related to the app?]_
+- ACCOMPANYING ACTIVITY: [is there an activity related to the app?]
 - ADDITIONAL COMMENTS: 
