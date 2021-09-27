@@ -17,8 +17,8 @@ assignees: ''
 
 The following information is optional:
 
-- LINK TO REPOSITORY: *[for collaboration purposes app should be in its own repository]*
-- LEVEL OF DEPLOYEMENT: *[under development, beta version, ready for use]*
+- LINK TO REPOSITORY: *[for collaboration purposes, the app should be in its own repository]*
+- LEVEL OF DEPLOYMENT: *[under development, beta version, ready for use]*
 - LICENSE: *[see some licenses examples [here](https://creativecommons.org/about/cclicenses/)]*
 - E-MAIL ADDRESS:
 - COURSES FOR USE:
