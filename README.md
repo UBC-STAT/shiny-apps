@@ -2,7 +2,8 @@
 
 You can submit your Shiny App as an Issue in this repository [here](https://github.com/UBC-STAT/shiny-apps/issues/new/choose). This is the recommended way.
 
-Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny+App+Submission&body=-+AUTHORS:%0A-+TITLE:%0A-+MAIN+TOPIC:%0A-+DESCRIPTION:+*[a+sentence+or+two+describing+the+app]*%0A-+LINK+TO+DEPLOYED+APP:%0A">an email.</a>
+Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App%20Submission&body=-%20AUTHORS:%0A-%20TITLE:%0A-%20MAIN%20TOPIC:%0A-%20DESCRIPTION:%20*[a%20sentence%20or%20two%20describing%20the%20app]*%0A-%20LINK%20TO%20DEPLOYED%20APP:%0A">an email.</a>
+
 
 
 # Shiny Apps
