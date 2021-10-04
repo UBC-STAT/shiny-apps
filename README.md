@@ -18,5 +18,5 @@ Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App
 
 Title | Description | Link | Tag | More Info | Author(s) | Repository
 ------|-------------|------|-----|---------|-------------|------------
-Kingfisher | Sampling from a Normal Distribution Population | https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm | Sampling Distribution | - | Whitlock M. et al | [GH-repository](https://github.com/UBC-STAT/shiny-apps/)
+Kingfisher | Sampling from a Normal Distribution Population | https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm | Sampling Distribution | [link to file](https://github.com/UBC-STAT/shiny-apps/) | Whitlock M. et al | [GH-repository](https://github.com/UBC-STAT/shiny-apps/)
 
