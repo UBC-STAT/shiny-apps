@@ -1,6 +1,6 @@
 ### Submitting your shiny app
 
-You can submit your Shiny App as an Issue in this repository [here](https://github.com/UBC-STAT/shiny-apps/issues/new/choose). This is the recommended way.
+You can [submit your Shiny App as an Issue](https://github.com/UBC-STAT/shiny-apps/issues/new/choose) in this repository. This is the recommended way.
 
 Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App%20Submission&body=-%20AUTHORS:%0A-%20TITLE:%0A-%20MAIN%20TOPIC:%0A-%20DESCRIPTION:%20[a%20sentence%20or%20two%20describing%20the%20app]%0A-%20LINK%20TO%20DEPLOYED%20APP:%0A%0AThe%20following%20information%20is%20optional:%0A
 %0A-%20LINK%20TO%20REPOSITORY:%20[for%20collaboration%20purposes,%20the%20app%20should%20be%20in%20its%20own%20repository]%0A
