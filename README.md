@@ -16,7 +16,7 @@ Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App
 
 # Shiny Apps
 
-Title | Description | Link | Tag | More Info | Author(s) | Repository
-------|-------------|------|-----|---------|-------------|------------
-Kingfisher | Sampling from a Normal Distribution Population | https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm | Sampling Distribution | [link to file](https://github.com/UBC-STAT/shiny-apps/) | Whitlock M. et al | [GH-repository](https://github.com/UBC-STAT/shiny-apps/)
+Title | Topics | More Info | Author(s) | Repository
+------|-----|---------|-------------|------------
+[Sampling from a Normal Distribution](https://www.zoology.ubc.ca/~whitlock/Kingfisher/SamplingNormal.htm) |  <ul><li>Sampling from a normal distribution</li><li> Variability of the sample mean</li></ul> | [link to file](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-11-18-sampling-from-a-Normal-Distribution) | Flexible Learning in Statistics Team | -
 
