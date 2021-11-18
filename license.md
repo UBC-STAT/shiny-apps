@@ -1,6 +1,6 @@
 LICENSE YOUR WORK
 
-If you would like to contribute to UBC-STAT/shiny-apps, you will need to choose a license.  We do this to keep everyone honest and, if possible, keep material as open as possible.  If you don't choose a license, then the default is that the license is exclusive - all yours. 
+If you would like to contribute to UBC-STAT/shiny-apps, you will have to choose a license.  We do this to keep everyone honest and, if possible, keep material as open as possible.  If we were to post your contribution with no license, then that means that the license is exclusive - all yours - no one else can even use it. 
 
 When you submit a resource, you can specify a license. If you don't, we will reach out to you.  We can help you (although we are not lawyers).
 
@@ -12,6 +12,11 @@ or
 For non-software material such as activity sheets, we recommend
 -  [Creative Commons](https://creativecommons.org/about/cclicenses/) CC0  or CC-By  
 
+Some people use these brief desciptions:
+- a GPL means that any derivatives must also be given the same license
+- CC-0 means giving your work to the public domain  - you won't be cited or attributed
+- CC-by means you will be cited or attributed
+But please rely on the legalese in the links below - or the advice of a colleague.
 
 NEED MORE INFORMATION?
 - [How to choose a license](https://choosealicense.com)
