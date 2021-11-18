@@ -16,7 +16,7 @@ assignees: ''
 ---------------------------
 License information is optional on submission but will be required for posting in the repo:
 
-- LICENSE: [For licensing code, we recommend the MIT License or GNU GPL V3.  For information see [shiny-apps/license.md](https://github.com/UBC-STAT/shiny-apps/blob/main/license.md)]
+- LICENSE: [For licensing code, we recommend the MIT License or GNU GPL V3.  For information see: https://github.com/UBC-STAT/shiny-apps/blob/main/license.md]
 ---------------------------
 
 The following information is optional:
