@@ -14,7 +14,7 @@ Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App
 
 
 
-# Shiny Apps
+# Apps
 
 Title | Topics | Details | Author(s) | Repository
 ------|-----|---------|-------------|------------
