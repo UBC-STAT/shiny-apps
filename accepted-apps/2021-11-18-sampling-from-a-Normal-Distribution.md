@@ -4,7 +4,7 @@
 - DESCRIPTION:  Leads users through sampling from a normal distribution, showing distribution of the sample, and with multiple samples, the distribution of the sample mean. This includes the app and activity sheets.  Main developer was Michael Whitlock. 
 - LINK TO DEPLOYED APP: https://statspace.elearning.ubc.ca/handle/123456789/42
 - LICENSE: CC0
-- LINK TO REPOSITORY: -
+- LINK TO REPOSITORY: 
 - LEVEL OF DEPLOYMENT:  ready for use
 - E-MAIL ADDRESS: nancy@stat.ubc.ca
 - COURSES FOR USE: any intro stat course at any level
