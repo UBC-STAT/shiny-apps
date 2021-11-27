@@ -19,4 +19,4 @@ Alternatively, you can send us <a href="mailto:asda@mail.com?subject=Shiny%20App
 Title | Topics | Details | Author(s) | Repository
 ------|-----|---------|-------------|------------
 [Sampling from a Normal Distribution](https://statspace.elearning.ubc.ca/handle/123456789/42) |  <ul><li>Sampling from a normal distribution</li><li> Variability of the sample mean</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-11-18-sampling-from-a-Normal-Distribution.md) | Flexible Learning in Statistics Team | -
-
+[Effective Data Visualization with R](https://statspace.elearning.ubc.ca/handle/123456789/332) | <ul><li>Exploratory data analysis</li></ul> | TO BE ADDED  |  Gian Carlo Diluvi, Tiffany Timbers, Trevor Campbell, Harmeet Gil, Ian Flores Isaca, Melissa Lee, Sonja Isberg | [Repo](https://github.com/UBC-DSCI/dataviz-r)
