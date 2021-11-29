@@ -1,6 +1,5 @@
 """ 
 Date: 2021-11-29
-Author: Rodolfo Lourenzutti
 
 Update the app table with all accepted apps in the accepted apps folder.
 """
