@@ -57,7 +57,7 @@ if __name__ == "__main__":
     with open("README.md", mode = "w") as readme:
         readme.write(readme_split[0] + table_separator + "\n".join(table_entries))
 
-    os.system('git add -u')
+    os.system('git add README.md')
     os.system('git commit -m "Update apps table"')
     os.system('git push')
 
