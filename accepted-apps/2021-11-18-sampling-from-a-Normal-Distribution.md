@@ -6,7 +6,7 @@
 - LICENSE: CC0
 - LINK TO REPOSITORY: 
 - LEVEL OF DEPLOYMENT:  ready for use
-- E-MAIL ADDRESS: nancy@stat.ubc.ca
+- E-MAIL ADDRESS: statspace@stat.ubc.ca
 - COURSES FOR USE: any intro stat course at any level
 - PREREQUISITES:  see resources
 - LEARNING OBJECTIVES:  see resources
