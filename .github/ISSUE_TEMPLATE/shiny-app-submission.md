@@ -26,6 +26,12 @@ The following information is optional:
 - E-MAIL ADDRESS:
 - COURSES FOR USE:
 - PREREQUISITES:
+    - prerequisite 1
+    - prerequisite 2
 - LEARNING OBJECTIVES: 
+    - learning objective 1: leave four spaces to indent within a list
+        - learning objective 1.1: another four spaces
+        - learning objective 1.2
+    - learning objective 2
 - ACCOMPANYING ACTIVITY: [is there an activity related to the app?]
 - ADDITIONAL COMMENTS: 
