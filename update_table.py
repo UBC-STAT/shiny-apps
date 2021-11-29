@@ -8,7 +8,7 @@ Update the app table with all accepted apps in the accepted apps folder.
 import os
 import re
 
-os.chdir(r"C:\Users\lourenzutti\Projects\shiny-apps")
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def parse_info(info: str) -> dict:
     """Receive string from an accepted-apps file
