@@ -16,6 +16,7 @@ Some people use these brief desciptions:
 - a GPL means that any derivatives must also be given the same license
 - CC-0 means giving your work to the public domain  - you won't be cited or attributed
 - CC-by means you will be cited or attributed
+
 But please rely on the legalese in the links below - or the advice of a colleague.
 
 NEED MORE INFORMATION?
