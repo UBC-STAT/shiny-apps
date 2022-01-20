@@ -13,5 +13,3 @@ Title | Topics | Details | Author(s) | Repository
 [Gaussian Mixture Model](https://stat300.stat.ubc.ca/Gaussian_Mixture_Model/) | <ul><li>Exploring How Parameters Of A Simple Gaussian Mixture Model Changes The Shape Of The Resulting Distribution</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-12-09-Gaussian-Mixture-Model.md) | Marie Auger-Méthé | -
 [Normal Distribution Calculator](https://shiny-apps.stat.ubc.ca/phase_definitions/) | <ul><li>Normal Distribution Probabilities and Quantiles</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2022-01-18-Normal-Distribution-Calculator.md) | Ian Murphy | -
 
----------------------------
-License information is optional on submission but will be required for posting in the repo:) | <ul><li>Normal Distribution Probabilities And Quantiles</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2022-01-18-Normal-Distribution-Calculator.md) | Ian Murphy | [Repo](NA)
