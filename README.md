@@ -11,7 +11,7 @@ Title | Topics | Details | Author(s) | Repository
 [Sampling from a Normal Distribution](https://statspace.elearning.ubc.ca/handle/123456789/42) | <ul><li>Sampling From A Normal Distribution</li><li> Variability Of The Sample Mean</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-11-18-sampling-from-a-Normal-Distribution.md) | Flexible Learning in Statistics Team | -
 [Effective Data Visualization With R](https://statspace.elearning.ubc.ca/handle/123456789/332) | <ul><li>Exploratory Data Analysis</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-11-29-effective-data-visualization-with-r.md) | Gian Carlo Diluvi, Tiffany Timbers, Trevor Campbell, Harmeet Gil, Ian Flores Isaca, Melissa Lee, Sonja Isberg | [Repo](https://github.com/UBC-DSCI/dataviz-r)
 [Gaussian Mixture Model](https://stat300.stat.ubc.ca/Gaussian_Mixture_Model/) | <ul><li>Exploring How Parameters Of A Simple Gaussian Mixture Model Changes The Shape Of The Resulting Distribution</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2021-12-09-Gaussian-Mixture-Model.md) | Marie Auger-Méthé | [Repo]([for collaboration purposes, the app should be in its own repository])
-[Normal Distribution Calculator](https://shiny-apps.stat.ubc.ca/phase_definitions/
+[Normal Distribution Calculator](https://shiny-apps.stat.ubc.ca/phase_definitions/)
 
 ---------------------------
 License information is optional on submission but will be required for posting in the repo:) | <ul><li>Normal Distribution Probabilities And Quantiles</li></ul> | [link](https://github.com/UBC-STAT/shiny-apps/blob/main/accepted-apps/2022-01-18-Normal-Distribution-Calculator.md) | Ian Murphy | [Repo](NA)
