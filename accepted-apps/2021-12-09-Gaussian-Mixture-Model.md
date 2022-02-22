@@ -8,17 +8,9 @@
 - LEVEL OF DEPLOYMENT: ready for use
 - E-MAIL ADDRESS: auger-methe@stat.ubc.ca
 - COURSES FOR USE: STAT 547N
-- PREREQUISITES: Graduate class
-    - prerequisite 1
-    - prerequisite 2
-- LEARNING OBJECTIVES: 
-    - learning objective 1: leave four spaces to indent within a list
-        - learning objective 1.1: another four spaces
-        - learning objective 1.2
-    - learning objective 2
 - ACCOMPANYING ACTIVITY: Yes.
     - The students are asked before receiving the link to the app:
         - Can you write a simple mixture model that combines two normal distributions?
         - Can you draw an example of what it would look like?
     - After answering these questions, the students are given the link to the app and asked to change the values p, m1, and s1.
-- ADDITIONAL COMMENTS: 
+
