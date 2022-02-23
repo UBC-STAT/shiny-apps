@@ -1,0 +1,14 @@
+- AUTHOR(S): Flexible Learning in Statistics Team
+- TITLE: Confidence intervals for the mean
+- MAIN TOPIC: Confidence intervals for the mean
+- DESCRIPTION: This web visualization shows the meaning of a confidence interval, calculating confidence intervals of the means of repeated samples. This includes the app and activity sheets.  Main developer was Michael Whitlock. 
+- LINK TO DEPLOYED APP: https://statspace.elearning.ubc.ca/handle/123456789/75
+- LICENSE: CC0
+- LINK TO REPOSITORY: 
+- LEVEL OF DEPLOYMENT:  ready for use
+- E-MAIL ADDRESS: statspace@stat.ubc.ca
+- COURSES FOR USE: any intro stat course at any level
+- PREREQUISITES:  see resources
+- LEARNING OBJECTIVES:  see resources
+- ACCOMPANYING ACTIVITY: yes
+- ADDITIONAL COMMENTS: 
