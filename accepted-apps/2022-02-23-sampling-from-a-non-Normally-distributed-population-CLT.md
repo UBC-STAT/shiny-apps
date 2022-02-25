@@ -1,7 +1,7 @@
 - AUTHOR(S): Flexible Learning in Statistics Team
 - TITLE: Sampling from a non-Normally distributed population (CLT)
 - MAIN TOPIC: Central Limit Theorem
-- DESCRIPTION: This web visualization is designed to be used after the students are familiar with the general principles of sampling.  The Sampling from a Normal distribution visualization (linked under Related Resources) should be used first to introduce some of the basic concepts and the visual metaphors used here.
+- DESCRIPTION: This web visualization is designed to be used after the students are familiar with the general principles of sampling.  The Sampling from a Normal distribution visualization (linked under Related Resources) should be used first to introduce some of the basic concepts and the visual metaphors used here.  Main developer was Michael Whitlock.
 - LINK TO DEPLOYED APP: https://statspace.elearning.ubc.ca/handle/123456789/76
 - LICENSE: CC0
 - LINK TO REPOSITORY: 
